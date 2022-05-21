@@ -1,0 +1,4 @@
+- 👋 Hi, I’m 정제니
+- 👀 I’m interested in programming & design
+- 🌱 I’m currently learning programming & design
+- 📫 How to reach me hanjina@aol.com
